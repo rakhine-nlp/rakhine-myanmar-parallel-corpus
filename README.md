@@ -65,26 +65,27 @@ rakhine-myanmar-parallel-corpus/
 ```bash
 python scripts/align_sentences.py
 
-3. Output generated:
+### 3. Output generated:
 data/train.csv
 
-🧠 Use Cases
+# 🧠 Use Cases
 Neural Machine Translation (NMT)
 Chatbot training
 Dialect comparison (Rakhine vs Standard Burmese)
 Language preservation
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 Add English translation layer (Rakhine ↔ Myanmar ↔ English)
 Add speech dataset (audio + transcription)
 Improve alignment using semantic similarity models
 Expand dataset to 10,000+ sentence pairs
 
-⚠️ Limitations
+# ⚠️ Limitations
 Initial dataset is rule-based aligned (line-by-line)
 Sentence quality depends on manual curation
 Advanced semantic alignment is recommended for large-scale training
-📜 License
+
+# 📜 License
 
 This dataset is intended for research and open-source NLP development.
 
@@ -92,7 +93,7 @@ Suggested license:
 
 Creative Commons Attribution 4.0 (CC BY 4.0)
 
-🤝 Contribution
+# 🤝 Contribution
 
 Contributions are welcome:
 
@@ -101,10 +102,10 @@ Improve translations
 Fix alignment issues
 Add dialect variations
 
-🌍 Goal
+# 🌍 Goal
 
 To support digital preservation and AI development for the Rakhine language and its dialects.
 
-📬 Contact
+# 📬 Contact
 
 If you are contributing to Rakhine NLP or language technology projects, collaboration is welcome.
